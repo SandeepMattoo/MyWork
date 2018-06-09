@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="restaurant_category">
+        <item>Restaurant</item>
+        <item>Bistro</item>
+        <item>Cafe</item>
+    </string-array>
+
+    <string-array name="restaurant_location">
+        <item>North of London</item>
+        <item>East of London</item>
+        <item>West of London</item>
+        <item>South of London</item>
+    </string-array>
+
+    <string-array name="title_list">
+        <item>Dr.</item>
+        <item>Esq.</item>
+        <item>Hon.</item>
+        <item>Jr.</item>
+        <item>Mr.</item>
+        <item>Mrs.</item>
+        <item>Ms.</item>
+        <item>Messrs.</item>
+        <item>Mmes.</item>
+        <item>Msgr.</item>
+        <item>Prof.</item>
+        <item>Rev.</item>
+        <item>Rt. Hon.</item>
+        <item>Sr.</item>
+        <item>St.</item>
+
+    </string-array>
+    <string-array name="meal_category">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>

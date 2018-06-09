@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Find Me Eatery</string>
+    <string name="app_description">Use me to find best places matching your food taste and requirements at your convenience for times that suite you</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="prompt_Postcode">Postcode</string>
+    <string name="prompt_first_name">First Name</string>
+    <string name="prompt_family_name">Family Name</string>
+    <string name="prompt_user_title">Title</string>
+    <string name="prompt_business_name">Business Name</string>
+    <string name="prompt_phone">Phone</string>
+    <string name="prompt_mobile">mobile</string>
+    <string name="prompt_booking_date">Booking Date</string>
+    <string name="prompt_booking_time">Booking Time</string>
+    <string name="prompt_restaurant">Restaurant</string>
+    <string name="prompt_meal">Meal</string>
+    <string name="prompt_comments">Comments</string>
+    <string name="prompt_search">Search</string>
+    <string name="prompt_no_of_tables">Number of Tables</string>
+    <string name="prompt_restaurant_name">Name</string>
+    <string name="prompt_meal_title">Meal Title</string>
+    <string name="prompt_meal_description">Meal Description</string>
+
+    <string name="restaurant_category">Restaurant Category</string>
+    <string name="restaurant_location">Restaurant Location</string>
+    <string name="meal_category">Meal Category</string>
+
+    <string name="action_add_booking">Add</string>
+    <string name="action_cancel_booking">Cancel</string>
+    <string name="action_edit_booking">Edit</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_register_individual">Individual</string>
+    <string name="action_register_business">Business</string>
+    <string name="action_menu_item_individual_booking">Booking</string>
+    <string name="action_menu_item_individual_search">Search</string>
+    <string name="action_book_table">Book Table</string>
+    <string name="action_add_restaurant">Add Restaurant</string>
+
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_invalid_LoginDetails">Invalid Login Details</string>
+
+    <string name="error_field_required">This field is required</string>
+    <string name="error_database_not_found">Failed to initialise Database</string>
+    <string name="error_invalid_password_and_confirmPassword">Password and Confirm Password does not match</string>
+    <string name="error_invalid_first_name">First Name is required</string>
+    <string name="error_invalid_family_name">Family Name is required</string>
+    <string name="error_invalid_postcode">Invalid Postcode entered</string>
+    <string name="error_invalid_email_already_exist">Email address already in use. Please use a different id</string>
+    <string name="error_meal_description">Please provide description</string>
+    <string name="error_meal_title">Please provide Title for Meal</string>
+    <string name="error_meal_category">Please select Meal Category</string>
+    <string name="error_unknown">Apologies! Something went wrong</string>
+
+
+
+
+
+    <string name="default_menu_title">Menu</string>
+    <string name="default_menu_description">Satisfy your appetite with a variety of sumptuous dishes we have to offer</string>
+
+    <string name="booking_title">Bookings</string>
+    <string name="booking_subtitle">Bookings</string>
+    <string name="app_logo">ApplicationLogo</string>
+
+
+    <string-array name="restaurant_list">
+
+    </string-array>
+    <string-array name="meal_list">
+
+    </string-array>
+
+    <string name="use_type_administrator">Administrator</string>
+    <string name="use_type_user">User</string>
+
+    <string name="title_activity_individual_home">IndividualHome</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_administrator_home">AdministratorHomeActivity</string>
+    <string name="email_id">email_id</string>
+    <string name="user_id">user_id</string>
+    <string name="meal_id">meal_id</string>
+    <string name="booking_id">booking_id</string>
+    <string name="restaurant_id">restaurant_id</string>
+
+
+    <string name="useage_mode_new">"New"</string>
+    <string name="useage_mode_edit">"Edit"</string>
+    <string name="title_activity__search__booking_tabs">Activity_Search_Booking_tabs</string>
+    <string name="search_category">Category</string>
+    <string name="search_date">Date</string>
+    <string name="search_location">Location</string>
+    <string name="action_add_meal">Add Meal</string>
+
+
+</resources>
